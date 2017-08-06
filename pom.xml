@@ -5,8 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>augustmc</groupId>
-    <artifactId>java-skeleton</artifactId>
-    <version>2017.1</version>
+    <artifactId>examples</artifactId>
+    <version>2017.1.b1</version>
 
     <dependencies>
         <dependency>

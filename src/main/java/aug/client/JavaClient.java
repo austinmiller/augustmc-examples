@@ -10,6 +10,20 @@ import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+
+/**
+ * <p>
+ *     After compiling this in IntelliJ, the java tab under profile settings in August MC
+ * is setup like so ...
+ * </p>
+ *
+ * <ul>
+ *     <li>autostart</li>
+ *     <li>main class: aug.client.JavaClient</li>
+ *     <li>classpath (add directory): ${project.basedir}/target/classes</li>
+ * </ul>
+ *
+ */
 @SuppressWarnings("unused")
 public class JavaClient implements ClientInterface {
 
