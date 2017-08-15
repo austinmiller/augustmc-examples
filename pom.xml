@@ -6,15 +6,15 @@
 
     <groupId>augustmc</groupId>
     <artifactId>examples</artifactId>
-    <version>2017.1.b1</version>
+    <version>2017.1</version>
 
     <dependencies>
         <dependency>
             <groupId>augustmc</groupId>
             <artifactId>framework</artifactId>
-            <version>2017.1.b1</version>
+            <version>2017.1</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/lib/framework-2017.1.b1.jar</systemPath>
+            <systemPath>${project.basedir}/lib/framework-2017.1.jar</systemPath>
         </dependency>
     </dependencies>
 
